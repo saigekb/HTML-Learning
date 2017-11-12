@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>My First Page</title>
+	</head>
+	<body>
+		<h1>Welcome to my Fist Web Page</h1>
+		<p>This is an HTML page that I created in TextEdit.</p>
+	</body>
+</html>
+
